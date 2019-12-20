@@ -9,6 +9,7 @@ use Doctrine\ORM\Mapping as ORM;
  */
 class Produit
 {
+    ////////////////////////////////////
     /**
      * @ORM\Id()
      * @ORM\GeneratedValue()
